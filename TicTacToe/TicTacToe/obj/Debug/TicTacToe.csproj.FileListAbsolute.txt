@@ -1,0 +1,337 @@
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.dll
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.TicTacToe.apk
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.TicTacToe-Signed.apk
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.dll
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\obj\Debug\android\bin\TicTacToe.TicTacToe.apk
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\obj\Debug\res\layout\main.xml
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\obj\Debug\res\values\strings.xml
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\obj\Debug\res\drawable\icon.png
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_in_left.xml
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_in_right.xml
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_out_left.xml
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_out_right.xml
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\obj\Debug\res\drawable\tictactoe.png
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\obj\Debug\R.cs.flag
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\obj\Debug\uploadflags.txt
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.dll.mdb
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\obj\Debug\android\assets\TicTacToe.dll.mdb
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\obj\Debug\res\drawable\o.png
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\obj\Debug\res\drawable\x.png
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.dll
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.TicTacToe.apk
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.TicTacToe-Signed.apk
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.dll
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\bin\TicTacToe.TicTacToe.apk
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\layout\main.xml
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\values\strings.xml
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\icon.png
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_in_left.xml
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_in_right.xml
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_out_left.xml
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_out_right.xml
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\tictactoe.png
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\o.png
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\x.png
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\R.cs.flag
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\uploadflags.txt
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Microsoft.CSharp.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Mono.Android.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\mscorlib.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Core.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Xml.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Xml.Linq.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Net.Http.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Mono.Security.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\Microsoft.CSharp.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Core.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\TicTacToe.dll.mdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.dll.mdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\TicTacToe.dll.mdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\Microsoft.CSharp.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Core.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\avtor.jpg
+C:\Users\marti\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\draw.jpg
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.dll
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.TicTacToe.apk
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.TicTacToe-Signed.apk
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.dll
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\bin\TicTacToe.TicTacToe.apk
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\layout\main.xml
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\values\strings.xml
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\icon.png
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_in_left.xml
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_in_right.xml
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_out_left.xml
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_out_right.xml
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\tictactoe.png
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\o.png
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\x.png
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\avtor.jpg
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\draw.jpg
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\R.cs.flag
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\uploadflags.txt
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.dll.mdb
+C:\Users\opilane\Desktop\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\TicTacToe.dll.mdb
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.dll
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.TicTacToe.apk
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.TicTacToe-Signed.apk
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.dll
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\bin\TicTacToe.TicTacToe.apk
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\layout\main.xml
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\values\strings.xml
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\icon.png
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_in_left.xml
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_in_right.xml
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_out_left.xml
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_out_right.xml
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\tictactoe.png
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\o.png
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\x.png
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\avtor.jpg
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\draw.jpg
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\R.cs.flag
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\uploadflags.txt
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.dll.mdb
+C:\Users\opilane\Desktop\09.03\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\TicTacToe.dll.mdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.dll
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.TicTacToe.apk
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.TicTacToe-Signed.apk
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.dll
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\bin\TicTacToe.TicTacToe.apk
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\layout\main.xml
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\values\strings.xml
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\icon.png
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_in_left.xml
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_in_right.xml
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_out_left.xml
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_out_right.xml
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\tictactoe.png
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\o.png
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\x.png
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\avtor.jpg
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\draw.jpg
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\R.cs.flag
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\uploadflags.txt
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Microsoft.CSharp.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Mono.Android.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Mono.CSharp.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Mono.Security.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\mscorlib.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Core.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Net.Http.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Xml.Linq.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Xml.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.dll.mdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\TicTacToe.dll.mdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\Microsoft.CSharp.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\Mono.CSharp.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Core.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\TicTacToe.dll.mdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\Microsoft.CSharp.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\Mono.CSharp.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Core.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Xml.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.dll
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.TicTacToe.apk
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.TicTacToe-Signed.apk
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.dll
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\bin\TicTacToe.TicTacToe.apk
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\layout\main.xml
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\values\strings.xml
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\icon.png
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_in_left.xml
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_in_right.xml
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_out_left.xml
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_out_right.xml
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\tictactoe.png
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\o.png
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\x.png
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\avtor.jpg
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\draw.jpg
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\R.cs.flag
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\uploadflags.txt
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Microsoft.CSharp.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Mono.Android.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Mono.CSharp.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Mono.Security.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\mscorlib.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.ComponentModel.Composition.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Core.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Net.Http.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\SYSTEM.PDB
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Runtime.Serialization.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.ServiceModel.Internals.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Xml.Linq.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Xml.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.dll.mdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\TicTacToe.dll.mdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\Microsoft.CSharp.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\Mono.Android.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\Mono.CSharp.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\Mono.Security.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\mscorlib.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Core.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Net.Http.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\SYSTEM.PDB
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Xml.Linq.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Xml.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\TicTacToe.dll.mdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\Microsoft.CSharp.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\Mono.Android.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\Mono.CSharp.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\Mono.Security.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\mscorlib.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Core.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Net.Http.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\SYSTEM.PDB
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Xml.Linq.pdb
+F:\2 Курс\Федотов\Microsofti\TicTacToe\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.dll
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.dll
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\layout\main.xml
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\values\strings.xml
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\icon.png
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_in_left.xml
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_in_right.xml
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_out_left.xml
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\anim\slide_out_right.xml
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\tictactoe.png
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\o.png
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\x.png
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\res\drawable\draw.jpg
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\R.cs.flag
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\uploadflags.txt
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Microsoft.CSharp.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Mono.Android.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Mono.CSharp.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Mono.Security.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\mscorlib.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Core.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Net.Http.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Xml.Linq.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\System.Xml.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.dll.mdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\TicTacToe.dll.mdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\Microsoft.CSharp.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\Mono.CSharp.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Core.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\TicTacToe.dll.mdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\Microsoft.CSharp.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\Mono.CSharp.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Core.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\com.nitram.tictactoeMS.apk
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\bin\Debug\com.nitram.tictactoeMS-Signed.apk
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\android\bin\com.nitram.tictactoeMS.apk
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\Microsoft.CSharp.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Core.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Debug\linksrc\System.ComponentModel.Composition.pdb

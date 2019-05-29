@@ -1,0 +1,9 @@
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Release\android\assets\TicTacToe.dll
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Release\android\assets\Java.Interop.dll
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Release\android\assets\Microsoft.CSharp.dll
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Release\android\assets\Mono.Android.dll
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Release\android\assets\mscorlib.dll
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Release\android\assets\System.Core.dll
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Release\android\assets\System.dll
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\marti\Desktop\TicTacToe_V2\TicTacToe_V2\TicTacToe\TicTacToe\TicTacToe\obj\Release\android\assets\Mono.Security.dll

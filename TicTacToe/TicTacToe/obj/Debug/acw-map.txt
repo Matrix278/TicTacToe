@@ -1,0 +1,4 @@
+TicTacToe.MainActivity, TicTacToe;md5ab68a9dde37c23d4b970ca37e83e13b4.MainActivity
+TicTacToe.MainActivity, TicTacToe, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ab68a9dde37c23d4b970ca37e83e13b4.MainActivity
+TicTacToe.MainActivity;md5ab68a9dde37c23d4b970ca37e83e13b4.MainActivity
+tictactoe.MainActivity;md5ab68a9dde37c23d4b970ca37e83e13b4.MainActivity
